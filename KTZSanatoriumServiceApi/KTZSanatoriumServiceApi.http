@@ -1,0 +1,6 @@
+@KTZSanatoriumServiceApi_HostAddress = http://localhost:5064
+
+GET {{KTZSanatoriumServiceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
